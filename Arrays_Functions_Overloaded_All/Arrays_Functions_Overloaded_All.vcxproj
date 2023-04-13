@@ -128,6 +128,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Arrays_Functions_Overloaded_All_Source.cpp" />
+    <ClCompile Include="FillRand.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="constants.h" />
+    <ClInclude Include="FillRand.h" />
+    <ClInclude Include="Math_Functions.h" />
+    <ClInclude Include="Min_Max.h" />
+    <ClInclude Include="Print.h" />
+    <ClInclude Include="Search.h" />
+    <ClInclude Include="Shifts.h" />
+    <ClInclude Include="Sort.h" />
+    <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
